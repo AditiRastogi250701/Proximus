@@ -1,0 +1,2881 @@
+{
+  "intents": [
+    {
+      "intent": "AboutUS",
+      "examples": [
+        {
+          "text": "ABOUT AICTE"
+        },
+        {
+          "text": "abt aicte"
+        },
+        {
+          "text": "AICTE"
+        },
+        {
+          "text": "aicte is?"
+        },
+        {
+          "text": "TELL ABOUT AICTE"
+        },
+        {
+          "text": "What is AICTE?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ADF",
+      "examples": [
+        {
+          "text": "ADF"
+        },
+        {
+          "text": "AICTE DOCTORAL FELLOWSHIP"
+        },
+        {
+          "text": "DOCTORAL"
+        },
+        {
+          "text": "DOCTORAL FELLOWSHIP SCHEME"
+        },
+        {
+          "text": "DOCTORAL SCHEME"
+        },
+        {
+          "text": "FELLOWSHIP"
+        },
+        {
+          "text": "FELLOWSHIP SCHEME"
+        },
+        {
+          "text": "OCTORAL"
+        },
+        {
+          "text": "SOCTORAL"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AICTE_Objectives",
+      "examples": [
+        {
+          "text": "aicte aims to achieve?"
+        },
+        {
+          "text": "AICTE OBJECTIVE"
+        },
+        {
+          "text": "AICTE OBJECTIVES"
+        },
+        {
+          "text": "aim of aicte"
+        },
+        {
+          "text": "objectives of aicte"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "AICTE_Team",
+      "examples": [
+        {
+          "text": "AICTE team"
+        },
+        {
+          "text": "heads in aicte"
+        },
+        {
+          "text": "heads of aicte"
+        },
+        {
+          "text": "important people in aicte"
+        },
+        {
+          "text": "leaders of aicte"
+        },
+        {
+          "text": "people in aicte"
+        },
+        {
+          "text": "team"
+        },
+        {
+          "text": "team of aicte"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "APEX_level_bodies",
+      "examples": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "apex level bodies"
+        },
+        {
+          "text": "apex level body"
+        },
+        {
+          "text": "one"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ARIIA",
+      "examples": [
+        {
+          "text": "ARIIA"
+        },
+        {
+          "text": "ATAL RANKING"
+        },
+        {
+          "text": "Atal Ranking of Institutions of Innovation Achievement (ARIIA)"
+        },
+        {
+          "text": "INNOVATION ACHIEVEMENT"
+        },
+        {
+          "text": "INSTITUTIONS OF INNOVAION ACHIEVEMEN"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "CAFES",
+      "examples": [
+        {
+          "text": "CAFE"
+        },
+        {
+          "text": "CAFES"
+        },
+        {
+          "text": "CAMPUS ACCOMMODATION"
+        },
+        {
+          "text": "CAMPUS ACCOMODATION"
+        },
+        {
+          "text": "FACILITIES ENHANCING SOCIAL EXPERIENCE"
+        },
+        {
+          "text": "SCHEME FOR CAMPUS ACCOMMODATION & FACILITIES ENHANCING SOCIAL EXPERIENCE (CAFES)"
+        },
+        {
+          "text": "SCHEME FOR CAMPUS ACCOMODATION"
+        },
+        {
+          "text": "SCHEME FOR ENHANCING SOCIAL EXPREIENCE"
+        },
+        {
+          "text": "SCHEMES FOR CAMPUS ACCOMODATION"
+        },
+        {
+          "text": "SCHEMES FOR ENHANCING SOCIAL EXPERIENCE"
+        },
+        {
+          "text": "SCHEMES FOR ENHANCONG SOCIAL EXPRESINCE"
+        },
+        {
+          "text": "SOCIAL EXPERIENCE"
+        },
+        {
+          "text": "SOCIAL EXPREINCE"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "central",
+      "examples": [
+        {
+          "text": "5"
+        },
+        {
+          "text": "c"
+        },
+        {
+          "text": "central"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "community_college",
+      "examples": [
+        {
+          "text": "clg"
+        },
+        {
+          "text": "community clg"
+        },
+        {
+          "text": "community college"
+        },
+        {
+          "text": "info abt community college"
+        },
+        {
+          "text": "information about community collegr"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ConferenceGrant",
+      "examples": [
+        {
+          "text": "conference"
+        },
+        {
+          "text": "GRANT FOR ORGANISING CONFERENCE"
+        },
+        {
+          "text": "grant organising conference"
+        },
+        {
+          "text": "organising conference"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Course_Curriculum",
+      "examples": [
+        {
+          "text": "books"
+        },
+        {
+          "text": "books for the course"
+        },
+        {
+          "text": "course"
+        },
+        {
+          "text": "Course curriculum"
+        },
+        {
+          "text": "course syllabus"
+        },
+        {
+          "text": "curriculum"
+        },
+        {
+          "text": "important books"
+        },
+        {
+          "text": "study details"
+        },
+        {
+          "text": "syllabus"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "CSC",
+      "examples": [
+        {
+          "text": "CGC"
+        },
+        {
+          "text": "CLEAN AND SMART"
+        },
+        {
+          "text": "Clean and smart campus"
+        },
+        {
+          "text": "CLEAN CAMPUS"
+        },
+        {
+          "text": "SMART AND CLEAN CAMPUS"
+        },
+        {
+          "text": "SMART CAMPUS"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "DistanceEducation",
+      "examples": [
+        {
+          "text": "distance edu"
+        },
+        {
+          "text": "distance education"
+        },
+        {
+          "text": "distance education policy"
+        },
+        {
+          "text": "distance learning"
+        },
+        {
+          "text": "distance learning policy"
+        },
+        {
+          "text": "policy for distance education"
+        },
+        {
+          "text": "policy for distance learning"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "East",
+      "examples": [
+        {
+          "text": "2"
+        },
+        {
+          "text": "e"
+        },
+        {
+          "text": "east"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FacultyOpportunities",
+      "examples": [
+        {
+          "text": "faculties opportunities"
+        },
+        {
+          "text": "faculty"
+        },
+        {
+          "text": "Faculty opportunities"
+        },
+        {
+          "text": "faculty opportunity"
+        },
+        {
+          "text": "opportunites for faculties"
+        },
+        {
+          "text": "opportunities for teachers"
+        },
+        {
+          "text": "opportunity for faculty"
+        },
+        {
+          "text": "opportunity for teachers"
+        },
+        {
+          "text": "teacher"
+        },
+        {
+          "text": "teacher opportunites"
+        },
+        {
+          "text": "teacher opportunity"
+        },
+        {
+          "text": "What are the available opportunities for the faculty"
+        },
+        {
+          "text": "What are the available opportunities for the teacher"
+        },
+        {
+          "text": "What are the available opportunities for the teachers"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Faculty_Scheme",
+      "examples": [
+        {
+          "text": "Available faculty schemes"
+        },
+        {
+          "text": "faculties schemes"
+        },
+        {
+          "text": "scheme faculty"
+        },
+        {
+          "text": "scheme for faculty"
+        },
+        {
+          "text": "schemes for faculties"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "FDP",
+      "examples": [
+        {
+          "text": "AICTE-FACULTY DEVELOPMENT PROGRAMME (FDP)"
+        },
+        {
+          "text": "FACULTIES DEVELOPMENT PROGRAMME"
+        },
+        {
+          "text": "FACULTY DEVELOPMENT PROGRAM"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "GAINER",
+      "examples": [
+        {
+          "text": "AICTE- GRANT FOR AUGMENTING INFRASTRUCTURE IN NORTH EASTERN REGION (GAINER)"
+        },
+        {
+          "text": "AUGMENTING INFRASTRUCTURE"
+        },
+        {
+          "text": "GAINER"
+        },
+        {
+          "text": "GRANT FOR AUGMENING INFRASRUCTURE IN NORTH EASTERN REGION"
+        },
+        {
+          "text": "GRANT FOR AUGMENTING INFRASTRUCTURE"
+        },
+        {
+          "text": "INFRASTRUCTURE IN NORTH EASTERN REGION"
+        },
+        {
+          "text": "NORTH EASTERN REGION"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "GeneralScheme",
+      "examples": [
+        {
+          "text": "general"
+        },
+        {
+          "text": "generalized scheme"
+        },
+        {
+          "text": "general schemed"
+        },
+        {
+          "text": "general schemes"
+        },
+        {
+          "text": "scheme general"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Head_Office",
+      "examples": [
+        {
+          "text": "H"
+        },
+        {
+          "text": "head"
+        },
+        {
+          "text": "Head Office"
+        },
+        {
+          "text": "head offices"
+        },
+        {
+          "text": "headoffices"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "IdeaLab",
+      "examples": [
+        {
+          "text": "AICTE-IDEA LAB"
+        },
+        {
+          "text": "IDEA LAB"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "IIIT",
+      "examples": [
+        {
+          "text": "IIIT"
+        },
+        {
+          "text": "IIITs"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "IIM",
+      "examples": [
+        {
+          "text": "IIM"
+        },
+        {
+          "text": "IIMs"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "IIT",
+      "examples": [
+        {
+          "text": "IIT"
+        },
+        {
+          "text": "IITs"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "INAE",
+      "examples": [
+        {
+          "text": "AICTE INAE TRAVEL GRANT SCHEME"
+        },
+        {
+          "text": "GRANT SCHEME"
+        },
+        {
+          "text": "INAE"
+        },
+        {
+          "text": "INAE TRAVEL SCHEME"
+        },
+        {
+          "text": "TRAVE GRANT SCHEME"
+        },
+        {
+          "text": "TRAVEL GRANT SCHEME"
+        },
+        {
+          "text": "TRAVEL SCHEME"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Initiatives",
+      "examples": [
+        {
+          "text": "AICTE initiative"
+        },
+        {
+          "text": "AICTE initiatives"
+        },
+        {
+          "text": "initiaitives by aicte"
+        },
+        {
+          "text": "initiative"
+        },
+        {
+          "text": "initiative by aicte"
+        },
+        {
+          "text": "initiatives"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "InstitutionOpportunities",
+      "examples": [
+        {
+          "text": "Available opportuities for institutes"
+        },
+        {
+          "text": "Available opportuities for institution"
+        },
+        {
+          "text": "Available opportuities for institutions"
+        },
+        {
+          "text": "Institute"
+        },
+        {
+          "text": "institutes"
+        },
+        {
+          "text": "institution"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "InstitutitonalSchemes",
+      "examples": [
+        {
+          "text": "institute scheme"
+        },
+        {
+          "text": "institute schemes"
+        },
+        {
+          "text": "institute schems"
+        },
+        {
+          "text": "institutional scheme"
+        },
+        {
+          "text": "institutional schemes"
+        },
+        {
+          "text": "institutiotnal schemes"
+        },
+        {
+          "text": "scheme for institutes"
+        },
+        {
+          "text": "scheme institute"
+        },
+        {
+          "text": "schemes for institutes"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Internship",
+      "examples": [
+        {
+          "text": "AICTE Internship"
+        },
+        {
+          "text": "How can I get an internship using AICTE"
+        },
+        {
+          "text": "Internship"
+        },
+        {
+          "text": "Internship through AICTE"
+        },
+        {
+          "text": "Internship via AICTE"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "JSA",
+      "examples": [
+        {
+          "text": "JAL ABHIYAAN"
+        },
+        {
+          "text": "JAL SHAKTI"
+        },
+        {
+          "text": "Jal shakti abhiyan"
+        },
+        {
+          "text": "JSA"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "KARMA",
+      "examples": [
+        {
+          "text": "AUGMENTATION AND INFRASTRUCTURING MISSION"
+        },
+        {
+          "text": "AUGMENTATION AND INFRASTRUCTURING TECHNIQUE"
+        },
+        {
+          "text": "INFRASTRUCTURING MISSION"
+        },
+        {
+          "text": "KARMA"
+        },
+        {
+          "text": "KAUSHAL AUGMENATION AND INFRASTRUCTURING TECHNIQUES"
+        },
+        {
+          "text": "KAUSHAL AUGMENTATION"
+        },
+        {
+          "text": "KAUSHAL AUGMENTATION AND RESTRUCTURING MISSION OF AICTE (KARMA)"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "KeyInstitutions",
+      "examples": [
+        {
+          "text": "Apex level bodies"
+        },
+        {
+          "text": "apex level body"
+        },
+        {
+          "text": "IIIT"
+        },
+        {
+          "text": "IIITs"
+        },
+        {
+          "text": "IIM"
+        },
+        {
+          "text": "IIMs"
+        },
+        {
+          "text": "IIT"
+        },
+        {
+          "text": "IITs"
+        },
+        {
+          "text": "info about the key institutions"
+        },
+        {
+          "text": "information abt the key institutes"
+        },
+        {
+          "text": "Key institutions"
+        },
+        {
+          "text": "NIT"
+        },
+        {
+          "text": "NITs"
+        },
+        {
+          "text": "NITTTR"
+        },
+        {
+          "text": "NITTTRs"
+        },
+        {
+          "text": "which are the key institutions"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "LILAVATI",
+      "examples": [
+        {
+          "text": "AICTE LILAVATI AWARD"
+        },
+        {
+          "text": "AICTE LILAWATI AWARD"
+        },
+        {
+          "text": "LILAVATI"
+        },
+        {
+          "text": "LILAVATI AWARD"
+        },
+        {
+          "text": "LILAWATI"
+        },
+        {
+          "text": "LILAWATI AWARD"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Mission",
+      "examples": [
+        {
+          "text": "AICTE MISSION"
+        },
+        {
+          "text": "MISSION"
+        },
+        {
+          "text": "MISSION OF AICTE"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "MITACS",
+      "examples": [
+        {
+          "text": "GLOBALINK"
+        },
+        {
+          "text": "GRI"
+        },
+        {
+          "text": "MITACS"
+        },
+        {
+          "text": "MITACS GLOBALINK RESEARCH INTERNSHIP"
+        },
+        {
+          "text": "MITACS GRI"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "MODROBS",
+      "examples": [
+        {
+          "text": "MODERNISATION AND REMOVAL OF OBSOLESCENCE (MODROBS)"
+        },
+        {
+          "text": "MODROBS"
+        },
+        {
+          "text": "OBSOLESCENCE"
+        },
+        {
+          "text": "REMOVAL OF OBSOLESCENCE"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Newsletter",
+      "examples": [
+        {
+          "text": "aicte news letter"
+        },
+        {
+          "text": "aicte newsletter"
+        },
+        {
+          "text": "letter"
+        },
+        {
+          "text": "news"
+        },
+        {
+          "text": "news letter"
+        },
+        {
+          "text": "newsletter"
+        },
+        {
+          "text": "news letter aicte"
+        },
+        {
+          "text": "newsletter aicte"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "NIT",
+      "examples": [
+        {
+          "text": "NIT"
+        },
+        {
+          "text": "NITs"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "NITTT",
+      "examples": [
+        {
+          "text": "AICTE- NATIONAL INITIATIVE FOR TECHNICAL TEACHERS TRAINING (AICTE - NITTT)"
+        },
+        {
+          "text": "NITTT"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "NITTTR",
+      "examples": [
+        {
+          "text": "NITTTR"
+        },
+        {
+          "text": "NITTTRs"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "North",
+      "examples": [
+        {
+          "text": "1"
+        },
+        {
+          "text": "n"
+        },
+        {
+          "text": "north"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Offices",
+      "examples": [
+        {
+          "text": "AICTE OFFICES"
+        },
+        {
+          "text": "BRANCH"
+        },
+        {
+          "text": "BRANCHES"
+        },
+        {
+          "text": "OFFICE"
+        },
+        {
+          "text": "OFFICE AICTE"
+        },
+        {
+          "text": "OFFICES"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Opportunities",
+      "examples": [
+        {
+          "text": "available opportunities"
+        },
+        {
+          "text": "Opportunities"
+        },
+        {
+          "text": "opportunities for me"
+        },
+        {
+          "text": "opportunity"
+        },
+        {
+          "text": "What are the available opportunities?"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "OSOT",
+      "examples": [
+        {
+          "text": "1 STUDENT 1 TREE"
+        },
+        {
+          "text": "1 STUDENT ONE TREE"
+        },
+        {
+          "text": "EACH STUENT ONE TREE"
+        },
+        {
+          "text": "ONE STUDENT 1 TREE"
+        },
+        {
+          "text": "One student one tree"
+        },
+        {
+          "text": "ONE TREE BY EACH STUDENT"
+        },
+        {
+          "text": "STUDENT TREE"
+        },
+        {
+          "text": "TREE STUDENT"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PDS",
+      "examples": [
+        {
+          "text": "AICTE PROFESSIONAL DEVELOPMENT SCHEME"
+        },
+        {
+          "text": "PROFESSIONAL DEVELOPMENT SCHEME"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PG",
+      "examples": [
+        {
+          "text": "PG"
+        },
+        {
+          "text": "PG SCHOLARSHIP"
+        },
+        {
+          "text": "PG SCHOLARSHIPS"
+        },
+        {
+          "text": "POST GRADUATE SCHOLARSHIP"
+        },
+        {
+          "text": "POST GRADUATE SCHOLARSHIPS"
+        },
+        {
+          "text": "PR SCHOLARSHIP"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PMKVY",
+      "examples": [
+        {
+          "text": "KAUSHAL VIKAS YOJNA"
+        },
+        {
+          "text": "PM KAUSHAL VIKAS YOJNA"
+        },
+        {
+          "text": "PMKVY"
+        },
+        {
+          "text": "PRADHAN MANTRI KAUSHAL VIKAS YOJNA"
+        },
+        {
+          "text": "VIKAS YOJNA"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PMSSS",
+      "examples": [
+        {
+          "text": "pm scholarship"
+        },
+        {
+          "text": "PM's special scholarship scheme"
+        },
+        {
+          "text": "PMSSS"
+        },
+        {
+          "text": "Prime Minister's Special Scholarship Scheme"
+        },
+        {
+          "text": "Special scholarship scheme"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PoliciesReforms",
+      "examples": [
+        {
+          "text": "education policies"
+        },
+        {
+          "text": "education policies reforms"
+        },
+        {
+          "text": "education policy"
+        },
+        {
+          "text": "education policy and reform"
+        },
+        {
+          "text": "education reform"
+        },
+        {
+          "text": "education reforms"
+        },
+        {
+          "text": "policies and reforms related to education"
+        },
+        {
+          "text": "Policies related to education"
+        },
+        {
+          "text": "policy and reform related to education"
+        },
+        {
+          "text": "reforms related to education"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "PragatiScholarship",
+      "examples": [
+        {
+          "text": "Pragati"
+        },
+        {
+          "text": "Pragati Scholarship"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Regional_Camp_Offices",
+      "examples": [
+        {
+          "text": "C"
+        },
+        {
+          "text": "Camp Office"
+        },
+        {
+          "text": "camp offices"
+        },
+        {
+          "text": "R"
+        },
+        {
+          "text": "Regional and Camp offices"
+        },
+        {
+          "text": "Regional Office"
+        },
+        {
+          "text": "regional offices"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "ResearchAndInnovationDevelopment",
+      "examples": [
+        {
+          "text": "innovation development"
+        },
+        {
+          "text": "innovation scheme"
+        },
+        {
+          "text": "innovation schemes"
+        },
+        {
+          "text": "Research and innovation development"
+        },
+        {
+          "text": "research development"
+        },
+        {
+          "text": "research development and innovation schmes"
+        },
+        {
+          "text": "research development schemes"
+        },
+        {
+          "text": "research schemes"
+        },
+        {
+          "text": "schemes for innovation"
+        },
+        {
+          "text": "schemes for research"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "RPS",
+      "examples": [
+        {
+          "text": "AICTE-RESEARCH PROMOTION SCHEME (RPS)"
+        },
+        {
+          "text": "RESEARCH PROMOTION SCHEME"
+        },
+        {
+          "text": "RPS"
+        }
+      ]
+    },
+    {
+      "intent": "SAGY",
+      "examples": [
+        {
+          "text": "AADARSH GRAM YOJNA"
+        },
+        {
+          "text": "GRAM YOJNA"
+        },
+        {
+          "text": "Saansad Aadarsh Gram Yojna (SAGY)"
+        },
+        {
+          "text": "SAANSAD ADARSH"
+        },
+        {
+          "text": "SAANSAD GRAM YOJNA"
+        },
+        {
+          "text": "SAGY"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SAKSHAM",
+      "examples": [
+        {
+          "text": "saksham"
+        },
+        {
+          "text": "Saksham scholarship"
+        },
+        {
+          "text": "saksham scholarships"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Schemes",
+      "examples": [
+        {
+          "text": "aicte scheme"
+        },
+        {
+          "text": "aicte schemes"
+        },
+        {
+          "text": "scheme"
+        },
+        {
+          "text": "schemes"
+        },
+        {
+          "text": "schemes by aicte"
+        },
+        {
+          "text": "what are the different schemes present in aicte"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SLA",
+      "examples": [
+        {
+          "text": "AICTE Student learning assessment project"
+        },
+        {
+          "text": "AICTE Student learning assessment project - PARAKH"
+        },
+        {
+          "text": "ASSESSMENT"
+        },
+        {
+          "text": "ASSESSMENT PROJECT"
+        },
+        {
+          "text": "LEARNING ASSESSMENT"
+        },
+        {
+          "text": "LEARNING PROJECT"
+        },
+        {
+          "text": "PARAKH"
+        },
+        {
+          "text": "SLA"
+        },
+        {
+          "text": "STUDENT ASSESSMENT"
+        },
+        {
+          "text": "STUDENT LEARNING ASSESSMENT"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SOUTH",
+      "examples": [
+        {
+          "text": "4"
+        },
+        {
+          "text": "S"
+        },
+        {
+          "text": "SOUTH"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SSPCA",
+      "examples": [
+        {
+          "text": "ABROAD"
+        },
+        {
+          "text": "COMPETITIONS"
+        },
+        {
+          "text": "COMPETITIONS ABROAD"
+        },
+        {
+          "text": "SSPCA"
+        },
+        {
+          "text": "SUPORT FOR STUDENTS"
+        },
+        {
+          "text": "Support to Students for Participating in Competitions Abroad"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "StudentOpportunities",
+      "examples": [
+        {
+          "text": "Available opportunities for students"
+        },
+        {
+          "text": "opportunities for students"
+        },
+        {
+          "text": "student"
+        },
+        {
+          "text": "student opportunities"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Student_scheme",
+      "examples": [
+        {
+          "text": "available schemes for students"
+        },
+        {
+          "text": "scheme for students"
+        },
+        {
+          "text": "schemes for students"
+        },
+        {
+          "text": "student scheme"
+        },
+        {
+          "text": "student schemes"
+        },
+        {
+          "text": "students scheme"
+        },
+        {
+          "text": "students schemes"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SwanathScholarship",
+      "examples": [
+        {
+          "text": "Swanath"
+        },
+        {
+          "text": "Swanath scholarship"
+        },
+        {
+          "text": "swanath scholarships"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "SWAYAM",
+      "examples": [
+        {
+          "text": "Launch of SWAYAM by honourable president"
+        },
+        {
+          "text": "SWAYAM"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "TUJTPT",
+      "examples": [
+        {
+          "text": "AICTE- TECHNICAL UNIVERSITY JOINT TRAINING PROGRAMS FOR TEACHERS"
+        },
+        {
+          "text": "JOINT TRAINING PROGRAAME"
+        },
+        {
+          "text": "TECHNICAL TRAINING PROGRAMME"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "VirtualLabs",
+      "examples": [
+        {
+          "text": "aicte virtual lab"
+        },
+        {
+          "text": "aicte virtual labs"
+        },
+        {
+          "text": "virtual lab"
+        },
+        {
+          "text": "Virtual lab policy"
+        },
+        {
+          "text": "virtual labs"
+        },
+        {
+          "text": "virtual labs policy"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "Vision",
+      "examples": [
+        {
+          "text": "AICTE VISION"
+        },
+        {
+          "text": "VISION"
+        },
+        {
+          "text": "VISION OF AICTE"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "west",
+      "examples": [
+        {
+          "text": "3"
+        },
+        {
+          "text": "W"
+        },
+        {
+          "text": "west"
+        }
+      ],
+      "description": ""
+    },
+    {
+      "intent": "YUVAK",
+      "examples": [
+        {
+          "text": "ACQUIRING KNOWLEDGE"
+        },
+        {
+          "text": "AICTE Youth Undertaking Visit for Acquiring Knowledge"
+        },
+        {
+          "text": "AICTE Youth Undertaking Visit for Acquiring Knowledge (YUVAK)"
+        },
+        {
+          "text": "AICTE Youth Undertaking Visit for Acquiring Knowledge *YUVAK)"
+        },
+        {
+          "text": "AICTE Youth Undertaking Visit for Acquiring Knowledge YUVAK"
+        },
+        {
+          "text": "KNOWLEDGE"
+        },
+        {
+          "text": "YOUTH ACQUIRING KNOWLEDGE"
+        },
+        {
+          "text": "YOUTH UNDERTAKING ACQURING KNOWLEDGE"
+        },
+        {
+          "text": "YUVAK"
+        }
+      ],
+      "description": ""
+    }
+  ],
+  "entities": [],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    }
+  },
+  "dialog_nodes": [
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_10_1647344726419",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "opportunities",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1. Student Opportunities   \n2. Faculty Opportunities \n3. Institution Opportunities\n\nWhat type of opportunities do you want to know about?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Opportunities",
+      "dialog_node": "node_10_1647344726419",
+      "previous_sibling": "node_1_1647346575567"
+    },
+    {
+      "type": "standard",
+      "title": "FacultyOpportunities",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "These are some available opportunities for faculties -\n\n<a href =\"https://www.aicte-india.org/sites/default/files/VISVESVARAYA%20BEST%20TEACHER%20AWARDS.pdf\">1.  AICTE-VISVESVARAYA BEST TEACHERS AWARDS</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/QIP%20Scheme%20Document.pdf\">2. AICTE -QUALITY IMPROVEMENT PROGRAMME</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/Scheme%20Document%20FDP.pdf\">3.  AICTE-FACULTY DEVELOPMENT PROGRAMME (FDP)</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/WTB%20%28Final%29%20%281%29.pdf\">4. AICTE-TECHNICAL BOOK WRITING & TRANSLATION </a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/EP%20(DPF)Scheme%20Document.pdf\">5.  AICTE-EMERITUS PROFESSOR (DISTINGUISHED PRACTICING ENGINEER</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#FacultyOpportunities",
+      "dialog_node": "node_10_1647347863594",
+      "previous_sibling": "node_7_1647414798154"
+    },
+    {
+      "type": "standard",
+      "title": "HeadOffice",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Address for Head Office -\n\nNelson Mandela Marg\nVasant Kunj, New Delhi-110070\nPhone: 011-26131576-78,80, 29581000"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1647414798154",
+      "conditions": "#Head_Office",
+      "dialog_node": "node_10_1647418326662"
+    },
+    {
+      "type": "standard",
+      "title": "CourseCurriculum",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<a href = \"https://www.aicte-india.org/sites/default/files/list-suggested-books-indian-authors-publishers.pdf\">1.Books for Engineering and Technology<br></a>\n<a href = \"https://www.aicte-india.org/sites/default/files/FINAL%20AICTE%20-%20UG-AUG%202018.pdf\">2.Books for Undergraduate<br></a>\n<a href = \"https://www.aicte-india.org/sites/default/files/Latest%20AICTE%20-%20PG.pdf\">3.Books for Postgraduate<br></a>\n<a href = \"http://www.aicte-india.org/sites/default/files/DiplomaET.pdf\">4.Books for Diploma<br></a>\n<a href = \"https://www.aicte-india.org/sample-model-curriculum-entrepreneurial-degreediploma-courses\">5.Books for Vocational Education<br></a>\n<a href = \"https://www.aicte-india.org/sites/default/files/Short%20Term%20and%20Medium%20Term%20Report.pdf\">6.Books for Perspective plan for Engineering Education<br></a>\n<a href = \"https://www.aicte-india.org/sites/default/files/Model_Curriculum/Minor%20Degree_Dec_2020.pdf\">7.Books for Minor degree for UG Degree Courses<br></a>\n<a href = \"https://www.aicte-india.org/sites/default/files/Model_Curriculum/ACM/ACM.pdf\">8.Books for Design of the Introductory Programming Course<br></a>\n<a href = \"https://www.aicte-india.org/sites/default/files/Model_Curriculum/Defence/Syllabi_for_M_Tech_web.pdf\">9.Books for M.Tech Defence Technology Curriculum<br></a>\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Course_Curriculum",
+      "dialog_node": "node_10_1647460695446",
+      "previous_sibling": "node_4_1647486441357"
+    },
+    {
+      "type": "standard",
+      "title": "fdp",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The scheme is intended to Institutions for induction training to teachers employed in AICTE approved Technical Institutions to facilitate up-gradation of knowledge and skill. Rs 5-7 Lakh are granted for the 2 weeks FDP.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/Scheme%20Document%20FDP.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#FDP",
+      "dialog_node": "node_10_1647517005205",
+      "previous_sibling": "node_9_1647516924542"
+    },
+    {
+      "type": "standard",
+      "title": "ARIIA",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "ARIIA is an initiative of Ministry of Human Resource Development (MHRD), Govt. of India to systematically rank all major higher educational institutions and universities in India on indicators related to “Innovation and Entrepreneurship Development” amongst students and faculties.\n\n<a href=\"https://ariia.gov.in/\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "dialog_node": "node_10_1647520490783",
+      "previous_sibling": "node_3_1647520336637"
+    },
+    {
+      "type": "standard",
+      "title": "StudentOpportunities",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "These are some available student opportunities - \n\n<a href=\"https://www.nitie.ac.in/inae/\">1.  INAE 4th INAE Youth Conclave scheduled on September 24, 2021 jointly with IIT Bombay; NITIE, Mumbai and ICT, Mumbai</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/opportunity.pdf\">2.  ISG-UBU Invites Indian-Mekong Scholars to Join the Project</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/GC-Finale.pdf\">3.  Grand Challenge for design & development for Mobile accessories products based on Li-ion Cells- seeking participation</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/GC-Finale.pdf\">4.  Grand Challenge for design & development for Mobile accessories products based on Li-ion Cells- seeking participation</a>\n\n<a href = \"http://mhrdnats.gov.in/\">5.  National Apprenticeship Training Scheme (NATS)</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#StudentOpportunities",
+      "dialog_node": "node_1_1647346575567",
+      "previous_sibling": "node_6_1647413176767"
+    },
+    {
+      "type": "standard",
+      "title": "Central",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Offices in central region :\n\n1.\nCentral Regional Office (CRO) - Bhopal\nAirport Bypass Road, Gandhi Nagar,\nBhopal-462036 \n\nPh.: 0755-2744313-16 Fax.: 0755-2744316\nEmail: cro@aicte-india.org\n\n2.\nCRO Camp Office – Vadodara\nAll India Council For Technical Education\nA-1-2, Quarters,\nChameli Baug, Campus of M.S.University Baroda, \nVadodara- 39002 (Gujarat)\n\nPh.: 0265-2750648, 2750614\nEmail: croco@aicte-india.org"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1647418479358",
+      "conditions": "#central",
+      "dialog_node": "node_1_1647420455590",
+      "previous_sibling": "node_7_1647419950631"
+    },
+    {
+      "type": "standard",
+      "title": "VirtualLabs",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "1. Effective utilization of intellectual resources, minimizing wastage of time in scouting for opportunities or desired items of knowledge appropriate to the requirement,\n\n2. Certification of attainments of any kind at any level acquired through formal or non formal means in conventional or non conventional fields.\n\n3. Any-time availability of desired knowledge at appropriate levels of comprehension to all for self paced learning.\n\n4. Platform for sharing of ideas and techniques and pooling of knowledge resources.\n\nIMPORTANT LINKS -\n<a href=\"http://www.vlab.co.in/\">VIRTUAL LABS</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#VirtualLabs",
+      "dialog_node": "node_1_1647461994476",
+      "previous_sibling": "node_2_1647461611614"
+    },
+    {
+      "type": "standard",
+      "title": "PMSSS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Objective of the Scheme is to build up capacities in youth of J&K, educate, enable and empowering them to compete in normal course, enhancing and boosting employment potentials in students of J&K. Total 5000 scholarship are given @ Rs. 100000/- as Maintenance Charges and academic fee as Rs. 30000/- to General Degree, Rs. 125000/- to Engineering Degree & Rs. 300000/- to Medical Degree each year.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/pmsss2020/2021-22/FAQs%20for%20PMSSS%202021-22.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#PMSSS",
+      "dialog_node": "node_1_1647514747342",
+      "previous_sibling": "node_3_1647514325557"
+    },
+    {
+      "type": "standard",
+      "title": "RPS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "This scheme Promotes Research in identified thrust areas of in Technical Education. RPS is aimed to create research ambience in the institutes by promoting research in engineering sciences and innovations in established and newer technologies; and to generate Master’s and Doctoral degree candidates to augment the quality of faculty and research. The limit of funding is Rs 25 Lakh for project duration of 3 years.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/fdc/RPS%20Scheme%20Document_Nov%202020.pdf\"> >Kow More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#RPS",
+      "dialog_node": "node_1_1647517398653",
+      "previous_sibling": "node_4_1647522979276"
+    },
+    {
+      "type": "standard",
+      "title": "Vision",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "                                                                                   Our Vision\n“To be a world-class organization leading technological and socio-economic development of the country by enhancing the global competitiveness of technical manpower and by ensuring high quality technical education to all sections of the society.”"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Vision",
+      "dialog_node": "node_2_1647414052795",
+      "previous_sibling": "node_3_1647413733383"
+    },
+    {
+      "type": "standard",
+      "title": "Regional_Camp_Offices",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Camp offices are available in the following regions -\n\n1. North\n2. East\n3. West\n4. South\n5. Central\n\nFurther information for which region is needed?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_7_1647414798154",
+      "conditions": "#Regional_Camp_Offices",
+      "dialog_node": "node_2_1647418479358",
+      "previous_sibling": "node_10_1647418326662"
+    },
+    {
+      "type": "standard",
+      "title": "North",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Offices in north region : \n\n1.\nNorthern Regional Office (NRO) - Kanpur\nAICTE - Northern Regional Office\nGovernment Polytechnic Campus\nAdjoining Directorate of Tech. Education Office,\nVikas Nagar, Zoo Road, Kanpur-208024\n\nPh.0512-2585012,2585014,2585018, Helpline: 2581263,\nFax No. 2585012\nEmail: nro@aicte-india.org\n\n2.\nNorth Western Regional Office (NWRO) - Chandigarh\nPlot No.1, 5th floor, DTE, Punjab Building,\nSector 36-A, Chandigarh-160036. \n\nPh. 0172-2613326, 2661201\nFax No. 2660179\nEmail: nwro@aicte-india.org"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1647418479358",
+      "conditions": "#North",
+      "dialog_node": "node_2_1647418800787"
+    },
+    {
+      "type": "standard",
+      "title": "DistanceEducation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE Policy\n\n1. All India Council for Technical Education (AICTE) is mandated by Parliament for proper planning and coordinated development of the technical education system throughout the country. It is responsible of promotion, qualitative improvement and proper maintenance of norms and standards in the technical education system and for matters connected therewith.\n\n2. The ‘technical education’ as defined under AICTE Act 1987, includes programme of education, research and training, engineering, technology, architecture, town planning, management, pharmacy and applied arts & crafts.\n\n3. The technical education system in the country, at present, offers technical education programs through conventional face to face mode of education.\n\n4. Currently AICTE also allows Technical Education through a Hybrid Model or blended learning model.\n\n5. The maintenance of standards of technical education imparted through Blended learning mode has two aspects. One is the delivery mechanism the courses/programmes (through Blended learning mode) and the other is quality and relevance of the contents of the course.\n\n6. AICTE has now defined the procedures and regulations for the conduct of Technical Education through Blended learning mode.\n\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#DistanceEducation",
+      "dialog_node": "node_2_1647461611614",
+      "previous_sibling": "node_10_1647460695446"
+    },
+    {
+      "type": "standard",
+      "title": "ADF",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Admitting full time meritorious research scholars by providing research fellowship who wants to seek admission to Ph.D. in AICTE approved Technical Institutes/University Departments for carrying out research in thrust areas\n\n<a href=\"https://www.aicte-india.org/sites/default/files/stdc/ADF%20guidelines%20updated.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ADF",
+      "dialog_node": "node_2_1647514953593",
+      "previous_sibling": "node_7_1647514844682"
+    },
+    {
+      "type": "standard",
+      "title": "MODROBS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The scheme equips technical institutions with infrastructural facilities, laboratories, workshops, and computing facilities to enhance teaching, training and research capabilities. The limit of funding is Rs 20 Lakhs and project duration is 2 years.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/modrob/MODROB%20Scheme%20Guidelines%2024_12_2021.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#MODROBS",
+      "dialog_node": "node_2_1647518533624",
+      "previous_sibling": "node_8_1647518476114"
+    },
+    {
+      "type": "standard",
+      "title": "JSA",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "According to the \"Overall Water Management Index\" released by the NITI Aayog last year, 60 crore people in the country are currently suffering from water scarcity. Moreover, about 25 lakh people die every year due to lack of availability of fresh water. In view of the water crisis, the government has launched its ambitious plan “Jal Shakti Abhiyan”. The scheme “Jal Shakti Abhiyan” with the theme, “Sanchay Jal Behtar Kal”, has commenced from 1st\nJuly 2019.\n\nThe Jal Shakti Abhiyan is aimed to accelerate water harvesting, conservation and bore well recharge activities in 256 water-stressed districts. The campaign is being coordinated by central IAS officers of Joint or Additional Secretary-rank level, and celebrities to spread the awareness through TV, radio, print, local and social media.\n\nAICTE has mapped more than 40000 engineering students with the District administration so that these students can work under JAL Shakti Abhiyan activities in their respective blocks. Most of the student participation is from the state of Tamil Nadu which is most hit due to present water crises. The PSAs office in close coordination with the ACTE is mobilizing 40,000 students referred to as Jal Vigyan Swayam sevaks from around the country in order to support the officials visiting their designated blocks. The students\nplay key role in supporting teams in data collection for planning, triangulating data and findings and supporting research and development efforts for future interventions.\nAICTE has circulated SOP/student instruction manual which can be used by the students as guidelines for ground work.\n\nOn 22nd July a national level Jal Divas was celebrated and more than 25000\nengineering students participated in different activities of the development\nand awareness of water safety and security.\n\nBest Performing Institutions were awarded by AICTE for their contributions"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#JSA",
+      "dialog_node": "node_2_1647522448531",
+      "previous_sibling": "node_7_1647522350067"
+    },
+    {
+      "type": "standard",
+      "title": "AICTE_Objectives",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Objectives of AICTE are :\n\n1. Promotion of Quality in technical education.\n2. Planning and coordinated development of technical education system. \n3. Regulations and maintenance of norms and standards."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AICTE_Objectives",
+      "dialog_node": "node_3_1647413733383",
+      "previous_sibling": "node_4_1647421782896"
+    },
+    {
+      "type": "standard",
+      "title": "MITACS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Scheme to foster cross-border partnerships focussed on creating a platform that opens the path for collaborative research between Canada and India to a wider pool of student talent in India.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/stdc/Mitacs%20Scheme%20Guidelines.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#MITACS",
+      "dialog_node": "node_3_1647512770100",
+      "previous_sibling": "node_7_1647512659500"
+    },
+    {
+      "type": "standard",
+      "title": "SSPCA",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The objective of the scheme is to provide travel assistance registration fees to a team of minimum 2 to 10 students for attending competition at international level in order to encourage engineering students to improve their field of technical education.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/SSPCA_Guidelines.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#SSPCA",
+      "dialog_node": "node_3_1647514325557",
+      "previous_sibling": "node_7_1647512851400"
+    },
+    {
+      "type": "standard",
+      "title": "PMKVY",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE is implementing the PMKVY for Technical Institutes scheme through AICTE approved Technical Institutions in the country. Under this Scheme in next three years, 10.5 Lakh youth are to be given Engineering Skills.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/PMKVY-TI%20Guidelines_17-18.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#PMKVY",
+      "dialog_node": "node_3_1647520336637",
+      "previous_sibling": "node_9_1647519011896"
+    },
+    {
+      "type": "standard",
+      "title": "SAGY",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Saansad Aadarsh Gram Yojana is a rural development programme broadly focusing upon the development in the villages which includes social development, cultural development and spread motivation among the people on social mobilization of the village community.\n\n<b>GOAL:</b>\n\nThe goal of Saansad Aadarsh Gram Yojana (SAGY) is to translate this comprehensive and organic vision of Mahatma Gandhi into reality, keeping in view the present context. \n\n<b>OBJECIVES:</b>\n\n1. To trigger processes which lead to holistic development of the identified Gram Panchayats\n2. To substantially improve the standard of living and quality of life of all sections of the population through -\n                                        a. improved basic amenities\n                                        b. enhanced human development\n                                        c. better livelihood opportunities\n                                        d. reduced disparities\n                                        e. access to rights and entitlements\n                                        f.  wider social mobilization\n3. To nurture the identified Adarsh Grams as schools of local development to train other Gram Panchayats"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#SAGY",
+      "dialog_node": "node_3_1647520653717",
+      "previous_sibling": "node_10_1647520490783"
+    },
+    {
+      "type": "standard",
+      "title": "OSOT",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hon’ble HRD Minister Dr. Ramesh Pokhriyal “Nishank” launched a campaign “One Student One Tree” on 20th July. This initiative is in line with the Hon’ble Prime Minister’s idea of a green and healthy environment. As a helping hand to this noble initiative and for making the students socially responsible, all AICTE approved technical institutions were requested to carry out a plantation drive by planting minimum of one tree per student to achieve the target of one crore plants. It was recommended that diverse species of trees should be planted with focus on minimum water consumption in an ecofriendly manner. Also, these trees should have suitable utility in the nearby area.\n\nAs an incentive for carrying out plantation, Student may be awarded 20 “AICTE Activity Point” as defined in Chapter 6 of AICTE Internship Policy. Institutions were also requested to carry out plantation drive in consultation with the nearest forest department. The Principal Secretaries of Forest Department of all states, Government of India were requested to help institutions with the land for carrying out plantation. One exclusive portal was developed by students, so that institutions can submit the data of planted trees along with one picture of plantation drive (preferably group of students with the saplings) on the portal. \n\nAll Faculty Members, Staff, Administration and Management of the\nInstitutions were also requested to lead by example, by planting at least one\ntree themselves. \n\nMore than 30 lakh trees have been planted till 2019. AICTE is committed to\ntake it further and reach the target of 1 crore tree plantation. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#OSOT",
+      "dialog_node": "node_3_1647522194408",
+      "previous_sibling": "node_5_1647522131659"
+    },
+    {
+      "type": "standard",
+      "title": "InstitutionOpportunites",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Opportunites for Institutes -\n\n<a href =\"https://www.aicte-india.org/sites/default/files/margdarshak/Revised%20Guideline%20on%20Margdarshan%20Inititative.pdf\">1. MARGDARSHAN INITIATIVE</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/GAINER%20Scheme%20Document.pdf\">2. AICTE- GRANT FOR AUGMENTING INFRASTRUCTURE IN NORTH EASTERN REGION (GAINER)</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/CAFES/CAFES%20SCHEME%20DOCUMENT%202020-21_20_01_21.pdf\">3.  SCHEME FOR CAMPUS ACCOMMODATION & FACILITIES ENHANCING SOCIAL EXPERIENCE (CAFES)</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/modrob/MODROB%20Scheme%20Guidelines%2024_12_2021.pdf\">4.  MODERNISATION AND REMOVAL OF OBSOLESCENCE (MODROBS)</a>\n\n<a href = \"https://www.aicte-india.org/sites/default/files/IDC/SPICES_SchemeDocument2022.pdf\">5.  AICTE-SCHEME FOR PROMOTING INTERESTS, CREATIVITY AND ETHICS AMONG STUDENTS (SPICES)</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#InstitutionOpportunities",
+      "dialog_node": "node_4_1647348889999",
+      "previous_sibling": "node_10_1647347863594"
+    },
+    {
+      "type": "standard",
+      "title": "East",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Offices in east region : \n\n1.\nEastern Regional Office (ERO) - Kolkata\nL.B. Block, Sector-III, College of leather Technology,\nCampus, Salt Lake City, Kolkata-700091 \n\nPh. 9433654767\nEmail: ero@aicte-india.org\n\n2.\nERO Camp Office - Guwahati\nAssam Engineering College Campus,\nJalukbari, Guwahati Assam - 781013\n\nPh. 6026178870\nFax No. 2570104\nEmail: coguwahati@aicte-india.org"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "parent": "node_2_1647418479358",
+      "conditions": "#East",
+      "dialog_node": "node_4_1647419736032",
+      "previous_sibling": "node_2_1647418800787"
+    },
+    {
+      "type": "standard",
+      "title": "community_college",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Information regarding Community College - \n\n1. <a href=\"https://www.aicte-india.org/downloads/NVEQF_Notification_MHRD_GOI.pdf\">National Vocational Education Qualifications Framework (NVEQF)</a>\n\n2. <a href=\"http://www.aicte-india.org/downloads/L1GeneralEducation.pdf\">Model Curriculum, Framework and Content</a>\n\n3. <a href=\"http://www.aicte-india.org/downloads/schemecommunity.pdf\">Important links for Community Colleges</a>\n\n4. <a href=\"http://www.aicte-india.org/downloads/nveqf_list_skps_090313.pdf\">List of Recommended SKPs under NVEQF Scheme</a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#community_college",
+      "dialog_node": "node_4_1647421782896",
+      "previous_sibling": "node_9_1647464277530"
+    },
+    {
+      "type": "standard",
+      "title": "PoliciesReforms",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Reforms and Policies.\n\n<a href=\"\"> 1. AICTE Quality Initiatives in Technical Education.</a> <br>\n<a href=\"\"> 2. AICTE Examination reform policy.</a> <br>\n<a href=\"\"> 3. A comprehensive training policy for technical teachers.</a> <br>\n<a href=\"\"> 4. AICTE Internship Policy gidelines and procedures. </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#PoliciesReforms",
+      "dialog_node": "node_4_1647486441357",
+      "previous_sibling": "node_4_1647516613502"
+    },
+    {
+      "type": "standard",
+      "title": "yuvak",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE Scheme for study tour of ATAL TUNNEL, Himachal Pradesh– YOUTH UNDERTAKING VISIT FOR ACQUIRING KNOWLEDGE (YUVAK)\n\n<a href=\"https://www.aicte-india.org/sites/default/files/stdc/SCHEME-ATAL-TUNNEL-YUVAK_16th%20April%202021.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#YUVAK",
+      "dialog_node": "node_4_1647515376370",
+      "previous_sibling": "node_8_1647515282356"
+    },
+    {
+      "type": "standard",
+      "title": "tujtpt",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The objective of the AICTE – University training programs is to conduct training for faculty members to prepare them for being successful in a knowledge society.\n\n<a href=\"https://aicte-india.org/sites/default/files/fds/Scheme%20Document%20TU%20teach-converted.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#TUJTPT",
+      "dialog_node": "node_4_1647516613502",
+      "previous_sibling": "node_10_1647517005205"
+    },
+    {
+      "type": "standard",
+      "title": "generalScheme",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "General schemes offered by AICTE include -\n\n1. KAUSHAL AUGMENTATION AND RESTRUCTURING MISSION OF AICTE (KARMA)\n2. Pradhan Mantri Kaushal Vikas Yojna (PMKVY)\n3. Saansad Aadarsh Gram Yojna (SAGY)\n4. Atal Ranking of Institutions of Innovation Achievement (ARIIA)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#GeneralScheme",
+      "dialog_node": "node_4_1647518859694",
+      "previous_sibling": "node_6_1647518777850"
+    },
+    {
+      "type": "standard",
+      "title": "initiatives",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE Initiatives - \n\n1. AICTE Student learning assessment project\n2. Jal shakti abhiyan\n3. One student one tree\n4. Launch of SWAYAM by honorable president\n5. Clean and green campus"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Initiatives",
+      "dialog_node": "node_4_1647521818671",
+      "previous_sibling": "node_3_1647520653717"
+    },
+    {
+      "type": "standard",
+      "title": "CSC",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Clean Campus-\n\n1. This aspect will emphasize on three areas:\n2. Cleanliness in and around the campus and waste minimization\n3. Water conservation and management including waste water management and reuse, rain water harvesting, etc.\n4. Environment-friendly activities adopted and practiced by the campus\n5. Greenery within the campus to provide pollution free air and carbon-sink\n\nSmart Campus-\n\n1. This will emphasize on the following aspects:\n2. Impact of deployment of digital technology in order for the students, faculty and management in the campus to reduce consumption of natural resources (such as paper, gas, energy etc.)\n3. Alignment of the latest digital trends like IoT, Big Data and Cloud Networking to achieve various aspects of sustainability in the campus, specifically to contribute to United Nations SDGs\n4. Create an ecosystem to ‘smartly’ connect and share the information with each other at campus, institute and national level. Any international level connect will provide a distinct advantage. The smart connect, though the cloud networking, so established should address concerns of environmental challenges including contribution to United Nations Sustainable Development Goals.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/csc/Clean%20&%20Smart%20Campus%20Award%202020%20Questionnaire's.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#CSC",
+      "dialog_node": "node_4_1647522640578",
+      "previous_sibling": "node_2_1647522448531"
+    },
+    {
+      "type": "standard",
+      "title": "newsletter",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Access our newsletters here,\n\n<a href=\"https://www.aicte-india.org/flipbook/newsletter/2021-q4/Newsletter.pdf\"> > News letter - October 2021 - December 2021 -English </a> <br>\n<a href=\"https://aicte-india.org/flipbook/newsletter/2021-q3/\"> > News letter - July 2021 - September 2021 -English </a> <br>\n<a href=\"https://aicte-india.org/flipbook/newsletter/2021-q2/\"> > News letter - April 2021 - June 2021 -English </a> <br>\n<a href=\"https://www.aicte-india.org/flipbook/newsletter/2021/\"> > News letter - January 2021 - March 2021 - English </a> <br>\n<a href=\"https://www.aicte-india.org/flipbook/newsletter/2018_1/\"> > News letter - January 2018 - June 2018 - English </a> <br>\n<a href=\"https://www.aicte-india.org/flipbook/newsletter/2017\"> > News letter - January 2017 - December 2017 - English </a> <br>\n<a href=\"https://www.aicte-india.org/flipbook/newsletter/2016\"> > News letter - January 2016 - December 2016 - English </a> <br>\n<a href=\"http://www.aicte-india.org/downloads/july_sept_2015.pdf\"> > News letter - July 2015 - September 2015 - Bilingual </a> <br>\n<a href=\"http://www.aicte-india.org/downloads/april_june_2015.pdf\"> > News letter - April 2015 - June 2015 - Bilingual </a> <br>\n<a href=\"http://www.aicte-india.org/downloads/news%20letter%20JAN-MARCH%202015%20FINAL.pdf\"> > News letter - January 2015 - March 2015 - Bilingual </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Newsletter",
+      "dialog_node": "node_4_1647522979276",
+      "previous_sibling": "node_4_1647522640578"
+    },
+    {
+      "type": "standard",
+      "title": "AICTE_TEAM",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Meet the individuals who bring unique perspectives, broad experience acquired through close collaborations, and deep insight to our work.\n\nProf. Anil D. Sahasrabudhe\n<i>Chairman</i>\n\nProf. M.P. Poonia\n<i>Vice Chairman</i>\n\nProf. Rajive Kumar\n<i>Member Secretary CIO</i>\n\nDr. Amit Dutta\n<i>Director</i>\n\nLt. Col. Kailash Bansal\n<i>Director</i>\n\nSmt Gujju Manushree\n<i>Director</i>\n\nDr Amit Kumar Srivastava\n<i>Director</i>\n\nSh Ravinder Singh\n<i>Director</i>\n\nDr. Abhay Jere\n<i>Chief Innovation Officer</i>\n\nSmt. Mamta Rani Agarwal\n<i>Advisor-I</i>\n\nProf. Rajendra B Kakde\n<i>Adviser-I</i>\n\nDr Buddha Chandrashekhar\n<i>Chief Coordinating Officer</i>\n\nDr. Neeraj Saxena\n<i>Adviser-I</i>\n\nDr. R. K. Soni\n<i>Adviser-II</i>\n\nDr Ramesh Unnikrishnan\n<i>Adviser-II</i>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#AICTE_Team",
+      "dialog_node": "node_5_1647414357707",
+      "previous_sibling": "node_9_1647414100045"
+    },
+    {
+      "type": "standard",
+      "title": "GAINER",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To enhance the functional efficiency of the technical institutes located in far-flung areas of North East India, AICTE has launched a scheme for providing logistics support to the technical institutes of NER by extending financial assistance for construction of rain water harvesting system, alternative power support & availability/connection of internet facility.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/GAINER%20Scheme%20Document.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#GAINER",
+      "dialog_node": "node_5_1647518405453",
+      "previous_sibling": "node_7_1647517713182"
+    },
+    {
+      "type": "standard",
+      "title": "PARAKH",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The AICTE-SLA project is designed to measure the benchmark levels and gains in academic and aptitude skills by the students in technical programs and to understand the various factors that affect skill development of students in Technical Institutes across India.\n\nVision:\n\nTo evaluate technical students of India for their overall qualitative growth during their Course of study in order to get appropriate employment that best suits students capability.\n\nMission:\n\nTo enable policy makers to evaluate the global competitiveness of Students, Faculty and Head of departments to create a more effective system for technical Higher Education in India.\n\n<a href=\"https://aslap.aicte-india.org/\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#SLA",
+      "dialog_node": "node_5_1647522131659",
+      "previous_sibling": "node_4_1647521818671"
+    },
+    {
+      "type": "standard",
+      "title": "Internships",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Check out out latest internships  <a href = \"https://internship.aicte-india.org/\"> here </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Internship",
+      "dialog_node": "node_6_1647350703728",
+      "previous_sibling": "node_4_1647348889999"
+    },
+    {
+      "type": "standard",
+      "title": "AboutUs",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "All India Council for Technical Education (AICTE) was set up in November 1945 as a national-level apex advisory body to conduct a survey on the facilities available for technical education and to promote development in the country in a coordinated and integrated manner."
+              },
+              {
+                "text": "The purview of AICTE (the Council) covers programmes of technical education including training and research in Engineering, Technology, Architecture, Town Planning, Management, Pharmacy, Applied Arts and Crafts, Hotel Management and Catering Technology etc. at different levels."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "#AboutUS",
+      "dialog_node": "node_6_1647413176767",
+      "previous_sibling": "node_6_1647350703728"
+    },
+    {
+      "type": "standard",
+      "title": "Scheme",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE provides various schemes for the betterment of students, faculties, institutes.\n\nWhat type of scheme would you like to know more about?\n\n1. Student Schemes\n2. Faculty Schemes\n3. Institutional Schemes\n4. Research and Innovation Development Schemes\n5. General Schemes"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Schemes",
+      "dialog_node": "node_6_1647510924759",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "Pragati",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Scholarship/Contingency is awarded to meritorious girls taking admission in AICTE approved Technical institution at Degree/ Diploma. Total 10000 scholarship are given @ Rs 50000 as incidentals each year.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/stdc/Pragati/FAQs-Pragati%20Scheme.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#PragatiScholarship",
+      "dialog_node": "node_6_1647512556361",
+      "previous_sibling": "node_8_1647511104993"
+    },
+    {
+      "type": "standard",
+      "title": "research&innovationDevelopment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "To provide research grant for young TEQIP faculties recruited in different TEQIP institutes so as to collaborate for research and build research community among TEQIP faculty, regular faculty of project institutions (focus and non-focus) & Premier institutions of the country.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/CRS_SCHEME_DOCUMENT.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#ResearchAndInnovationDevelopment",
+      "dialog_node": "node_6_1647518777850",
+      "previous_sibling": "node_9_1647518662742"
+    },
+    {
+      "type": "standard",
+      "title": "Office",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our offices are located thoughout the country. \nBrowse information about - \n1.  Head Office\n2.  Regional and Camp Offices"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Offices",
+      "dialog_node": "node_7_1647414798154",
+      "previous_sibling": "node_5_1647414357707"
+    },
+    {
+      "type": "standard",
+      "title": "West",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Offices in west region :\n\n1.\nWestern Regional Office (WRO) - Mumbai\n2nd floor, Industrial Research Building, National Institute of Industrial Engineering (NITIE) Campus,\nVihar Lake, Mumbai-400087\n\nPh. 022-28475793, 28470019\nFax: 22851551\nEmail: wro@aicte-india.org"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1647418479358",
+      "conditions": "#west",
+      "dialog_node": "node_7_1647419927710",
+      "previous_sibling": "node_4_1647419736032"
+    },
+    {
+      "type": "standard",
+      "title": "South",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Offices in south region :\n\n1.\nSWRO Camp Office - Thiruvananthapuram\nCollege of Engineering Campus, Thiruvananthapuram,\nKerala-695016\n\nPh. 0471-2596363, 2594343, 2592323\nEmail: aicte.tvpm@aicte-india.org\n\n2.\nSouth Western Regional Office (SWRO) - Bangalore\nSouth Western Regional Office, P.K. Block\nPalace Road, Bangalore – 560 009\n\nPh. 080-22205979, 080-22205919, 080-22208407\nFax No. 080-22253232\nEmail: swro@aicte-india.org\n\n3.\nSouth Central Regional Office (SCRO) - Hyderabad\nWest Block Nos. 201-204 & 221 to 224, 2nd Floor\nSwarna Jayanti Commercial Complex\nAmeerpet, Hyderabad 500038\n\nPh. 040-23340113, 040-23345071\nEmail: scro@aicte-india.org\n\n4.\nSouthern Regional Office (SRO) - Chennai\n\nShastri Bhawan, 26\nHaddows Road,\nChennai-600006\n\nPh. 044-28279998, 28275650, 28232754,\nFax No. 28255863\nEmail: sro@aicte-india.org"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_2_1647418479358",
+      "conditions": "#SOUTH",
+      "dialog_node": "node_7_1647419950631",
+      "previous_sibling": "node_7_1647419927710"
+    },
+    {
+      "type": "standard",
+      "title": "Swanath",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE has approved 'AICTE – SWANATH SCHOLARSHIP SCHEME' for children from any one of the following categories:\n1. Orphan\n2. Either or both parents died due to Covid-19\n3. Wards of Armed Forces and Central Paramilitary Forces martyred in action (Shaheed)\nto provide them financial support of Rs. 50,000/- per annum for every year of study.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/stdc/AICTE-SWANATH-%20SCHEME-DEGREE-DIPLOMA.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#SwanathScholarship",
+      "dialog_node": "node_7_1647512659500",
+      "previous_sibling": "node_6_1647512556361"
+    },
+    {
+      "type": "standard",
+      "title": "Saksham",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Scholarship/Contingency is awarded to Differently abled students taking admission in AICTE approved Technical institution at Degree/ Diploma. Scholarship given @ Rs 50000 as incidentals each year.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/stdc/FAQs-Saksham%20Scheme.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#SAKSHAM",
+      "dialog_node": "node_7_1647512851400",
+      "previous_sibling": "node_3_1647512770100"
+    },
+    {
+      "type": "standard",
+      "title": "INAE",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "An “AICTE-INAE Travel Grant Scheme” for Engineering Students to present papers abroad has been launched for enhancing the quality of engineering education in the country.\n\n<a href=\"https://inae.in/aicte-inae-travel-grant-scheme/\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#INAE",
+      "dialog_node": "node_7_1647514844682",
+      "previous_sibling": "node_1_1647514747342"
+    },
+    {
+      "type": "standard",
+      "title": "faculty scheme",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Various schemes for faculties include -\n\n1. AICTE- TECHNICAL UNIVERSITY JOINT TRAINING PROGRAMS FOR TEACHERS\n2. AICTE-PROFESSIONAL DEVELOPMENT SCHEME\n3. AICTE- NATIONAL INITIATIVE FOR TECHNICAL TEACHERS TRAINING (AICTE - NITTT)\n4. AICTE-FACULTY DEVELOPMENT PROGRAMME (FDP)\n5. AICTE-RESEARCH PROMOTION SCHEME (RPS)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Faculty_Scheme",
+      "dialog_node": "node_7_1647516595059",
+      "previous_sibling": "node_4_1647515376370"
+    },
+    {
+      "type": "standard",
+      "title": "institutionalScheme",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Various schemes for institutes include -\n\n1. AICTE- IDEA LAB\n2. GRANT FOR ORGANISING CONFERENCE\n3. MODERNISATION AND REMOVAL OF OBSOLESCENCE (MODROBS)\n4. SCHEME FOR CAMPUS ACCOMMODATION & FACILITIES ENHANCING SOCIAL EXPERIENCE (CAFES)\n5. AICTE- GRANT FOR AUGMENTING INFRASTRUCTURE IN NORTH EASTERN REGION (GAINER)"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#InstitutitonalSchemes",
+      "dialog_node": "node_7_1647517713182",
+      "previous_sibling": "node_7_1647516595059"
+    },
+    {
+      "type": "standard",
+      "title": "SWAYAM",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "SWAYAM MOOCs platform is World's Largest Online Free E-Learning Platform Portal designed to achieve the three cardinal principles of Education Policy viz., Access, Equity and Quality by covering School/Vocational, Under-Graduate, Post Graduate, Engineering and Other Professional Courses.\n\n<a href=\"https://swayam.gov.in/\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#SWAYAM",
+      "dialog_node": "node_7_1647522350067",
+      "previous_sibling": "node_3_1647522194408"
+    },
+    {
+      "type": "standard",
+      "title": "Student Schemes",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Various schemes for students includes - \n\n1.   Pragati Scholarship\n2.   Swanath Scholarship\n3.   MITACS Globalink Research Internship (GRI)\n4.   Saksham Scholarship\n5.   Support to Students for Participating in Competitions Abroad (SSPCA)\n6.   Prime Minister's Special Scholarship Scheme (PMSSS)\n7.   AICTE INAE Travel Grant Scheme\n8.   AICTE Doctoral Fellowship (ADF)\n9.   PG Scholarship\n10. AICTE Lilavati Award\n11. AICTE Youth Undertaking Visit for Acquiring Knowledge (YUVAK)\n\nAbout which scheme would you like to know about?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "#Student_scheme",
+      "dialog_node": "node_8_1647511104993",
+      "previous_sibling": "node_6_1647510924759"
+    },
+    {
+      "type": "standard",
+      "title": "LILAVATI",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE intends to seek applications for AICTEs LILAVATI AWARD-2021-22 based on the theme “Women Empowerment” from the eligible teams of AICTE approved institutions, who have undertaken remarkable intervention for the cause and made an impact that showcases their work under eight different sub-themes.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/lilavati_awards/SCHEME%20DOCUMENT%20FOR%20LILAVATI%20AWARD%202021-22.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "dialog_node": "node_8_1647515282356",
+      "previous_sibling": "node_9_1647515022974"
+    },
+    {
+      "type": "standard",
+      "title": "CAFES",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The scheme aims to support Government/ Government-aided engineering colleges/ University departments/Polytechnics for construction of girls/boys hostels for students /researchers belonging to SC&ST/ Differently abled/ NER students. Total funding is Rs 3.25 crore, which to be provided to institute to complete the project within the period of 3 years.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/CAFES/CAFES%20SCHEME%20DOCUMENT%202020-21_20_01_21.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#CAFES",
+      "dialog_node": "node_8_1647518476114",
+      "previous_sibling": "node_5_1647518405453"
+    },
+    {
+      "type": "standard",
+      "title": "Mission",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our Mission\n\nA true facilitator and an objective regulator;\n\n~\nTransparent governance and accountable approach towards the society;\n\n~\nPlanned and coordinated development of Technical Education in the country by ensuring world-class standards of institutions through accreditation;\n\n~\nEmphasis on developing high quality institutions, academic excellence, and innovative research and development programmes;\n\n~\nNetworking with/ or a network of institutions for optimum resource utilization;\n\n~\nDissemination of knowledge;"
+              },
+              {
+                "text": "Our Mission\n\nTechnology forecasting and global manpower planning;\n\n~\nPromoting industry-institution interaction for developing new products, services, and patents;\n\n~\nInculcating entrepreneurship;\n\n~\nEncouraging indigenous technology;\n\n~\nFocusing on non-formal education;\n\n~\nProviding affordable education to all;\n\n~\nMaking Technical Education in India globally acceptable;"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Mission",
+      "dialog_node": "node_9_1647414100045",
+      "previous_sibling": "node_2_1647414052795"
+    },
+    {
+      "type": "standard",
+      "title": "KeyIstitutions",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "India is a vast country with a population of more than 1.2 billion. Our Universities, Boards and Institutes of National Importance are catering to the educational needs of the society by transmitting knowledge, skills and values from one generation to another.\n1. Apex Level Bodies\n\nApex Level Bodies are responsible for recognition of courses, promotion of professional institutions and providing grants to different ​programmes and various awards.\n\n<a href = \"http://mhrd.gov.in/apex-level-bodies\"> >Know More </a>\n\n2. IIITs\n\nIndian Institutes of Information Technology is a group of institutes of higher education in India, focused on information technology.\n\n<a href = \"http://www.mhrd.gov.in/iiits\"> >Know More </a>\n\n3. IIMs\n\nThe Indian Institutes of Management (IIMs) is a group of autonomous institutes of management education and research in India.\n\n<a href = \"http://www.mhrd.gov.in/iims\"> >Know More </a>\n\n4. IITs\n\nThe Indian Institutes of Technology (IITs) are the autonomous public institutes of higher education located in India.\n\n<a href = \"http://www.mhrd.gov.in/iits\"> >Know More </a>\n\n5. NITs\n\nThe National Institutes of Technology (NITs), are esteemed colleges of engineering and technology education in India. They were originally called Regional Engineering Colleges (RECs). In 2002, the Ministry of Human Resource Development, Government of India, decided to upgrade.\n\n<a href = \"http://www.mhrd.gov.in/nits\"> >Know More </a>\n\n6. NITTTRs\n\nNational Institutes of Technical Teachers' Training & Research (NITTTR), were established in the Country as Technical Teachers' Training Institute (TTTI).\n\n<a href = \"http://www.mhrd.gov.in/nitttr\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "metadata": {
+        "_customization": {
+          "mcr": false
+        }
+      },
+      "conditions": "#KeyInstitutions",
+      "dialog_node": "node_9_1647462130819",
+      "previous_sibling": "node_1_1647461994476"
+    },
+    {
+      "type": "standard",
+      "title": "IIT",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "IITs\n\nThe Indian Institutes of Technology (IITs) are the autonomous public institutes of higher education located in India.\n\n<a href = \"http://www.mhrd.gov.in/iits\"> >Know More </a>\n"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#IIT",
+      "dialog_node": "node_9_1647464277530",
+      "previous_sibling": "node_9_1647462130819"
+    },
+    {
+      "type": "standard",
+      "title": "PG",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Scholarship is awarded to full time GATE/GPAT qualified students admitted to M.E./ M. Tech/ M. Arch and M.Pharma courses in AICTE approved Institutions/Colleges @Rs. 12,400/- PM/ student.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/PG%20FAQ.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#PG",
+      "dialog_node": "node_9_1647515022974",
+      "previous_sibling": "node_2_1647514953593"
+    },
+    {
+      "type": "standard",
+      "title": "PDS",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The scheme enables meritorious faculty to interact at International Level Conferences, both within and outside India, Seminars, and Symposia.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/fdc/sCHEME%20DOC%2021OCT2021.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#PDS",
+      "dialog_node": "node_9_1647516924542",
+      "previous_sibling": "node_9_1647517332342"
+    },
+    {
+      "type": "standard",
+      "title": "nittt",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "In order to train the Inductee Teachers in AICTE approved / recognized institutions, National Initiative for Technical Teachers Training (for Inductee Teachers) has been launched. It imparts training to the Inductee Teachers in three phases. The first phase of the training programme for the Inductee Teachers shall be conducted in Massive Open Online Courses (MOOCs) mode for eight modules on the SWAYAM platform through the NITTT portal www.nittt.ac.in followed by one-month industrial internship (second phase) and then mentor based training (third phase).\n\n<a href=\"https://www.aicte-india.org/sites/default/files/NITTT%20Scheme%20document.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#NITTT",
+      "dialog_node": "node_9_1647517332342",
+      "previous_sibling": "node_1_1647517398653"
+    },
+    {
+      "type": "standard",
+      "title": "IDEA LAB",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE has decided to establish AICTE-IDEA (Idea Development, Evaluation & Application) Lab in AICTE approved institutions, encouraging students for application of science, technologies, engineering and mathematics (STEM) fundamentals towards enhanced hands-on experience, learning by doing and product visualization.\n\n<a href=\"https://idealnet.aicte-india.org/\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#IdeaLab",
+      "dialog_node": "node_9_1647518578979",
+      "previous_sibling": "node_2_1647518533624"
+    },
+    {
+      "type": "standard",
+      "title": "conference",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "The scheme provides financial assistance to institutions for organizing Conference at National and International level in various fields of Technical Education.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/IDC/GOC%20Scheme%20Document-May%202021.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#ConferenceGrant",
+      "dialog_node": "node_9_1647518662742",
+      "previous_sibling": "node_9_1647518578979"
+    },
+    {
+      "type": "standard",
+      "title": "KARMA",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "AICTE is initiating “Kaushal Augmentation and Restructuring Mission of AICTE” (KARMA) for all AICTE approved institutions in the country to overcome the dual challenge of scarcity of skilled manpower in jobs and low skill level of those who are presently in jobs.\n\n<a href=\"https://www.aicte-india.org/sites/default/files/karma/KARMA-guidelines-updated.pdf\"> >Know More </a>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#KARMA",
+      "dialog_node": "node_9_1647519011896",
+      "previous_sibling": "node_4_1647518859694"
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Welcome to AICTE. <br> How can I help you?"
+              },
+              {
+                "text": "Welcome to AICTE. <br> How can I help you?"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "random"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "intent_classification": {
+      "training_backend_version": "v2"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "AICTE",
+  "language": "en",
+  "description": ""
+}
