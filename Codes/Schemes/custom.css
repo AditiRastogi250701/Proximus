@@ -1,0 +1,239 @@
+.about{
+    background-color: #009f8b;
+    color:white;
+    border: none;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px
+}
+
+#navbarNav{    
+    color:rgb(8, 191, 179);
+}
+
+main{
+    height: 300vh;
+    background-image: url(/pics/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: left center;
+}
+
+.hero_bg {
+    background-image: url(/pics/dummy.jpg);
+    background-repeat: no-repeat;
+}
+
+
+.kk{
+    color:rgb(8, 191, 179);
+    margin-top: 1%;
+    
+   
+    font-size: 200%;
+    font-weight: 700;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 1%;
+}
+
+.title_box{
+    width:90%;
+   padding-bottom: 4%;
+}
+
+
+/* LAYOUT */
+.og_grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;    
+    column-gap: 1rem;
+    row-gap: 1rem;
+}
+.og_grid_card {
+    background-color: #009f8b;
+    width: 100%;
+    padding: 2rem;
+}
+
+.og_flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 4%;
+    
+    
+}
+.og_flex_card {
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+   
+    padding: 1rem;
+    margin: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    
+              
+}
+.og_flex_card_2{
+    
+    width: 30rem;
+    padding: 0;
+    
+    margin: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+}
+
+.SLA_O{
+    color: white;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+
+.SLA_text_O{
+    color: white;
+    font-size: 15px;
+    font-weight: 350;
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+.SLA{
+    color: black;
+    font-size: 20px;
+    font-weight: 500;
+    margin-left: 10px;
+}
+.SLA_text{
+    color: gray;
+    font-size: 15px;
+    font-weight: 350;
+    margin-top: 35px;
+    margin-left: 10px;
+}
+.vec_1{
+    height: 100%;
+    width: 100%;
+    padding-right: 0;
+    margin-right: 0;
+    border-top-right-radius: 50px 20px;
+    border-bottom-right-radius: 50px 20px;
+    position: relative;
+}
+.card_container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.card1txt{
+    padding: 1rem;
+    margin: 1rem;
+}
+.centered {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 500%;
+    font-weight: 500;
+    
+  }
+  .centered_1{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 90%;
+    font-weight: 450;
+    
+  }
+  .centered_card_1{
+    position: absolute;
+    top: 50%;
+    left: 43%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 150%;
+    font-weight: 500;
+    width: 65%;
+  }
+  .blue{
+      color: #00ffe9;
+  }
+
+  .know_button{
+    background-color: white;
+    /* color:black; */
+    border: none;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+    opacity: 0.3;
+    font-weight: 400;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    
+
+  }
+ .btn{
+     color: azure;
+ }
+
+ 
+ a:link {
+    text-decoration: none;
+  }
+  
+  a:visited {
+    text-decoration: none;
+  }
+
+
+  .footer-middle{
+    /* display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center; */
+    background-color:#009f8b;
+    color:white;
+    width:100%;
+    padding:30px 0 30px 40px;
+    overflow:hidden;
+  }
+  
+  .footer-middle p{
+    text-align: left;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px auto;
+  }
+  
+  .social-network{
+    margin-right: 20px;
+    text-align: right;
+  }
+  
+  .social-network i{
+    color: #434343;
+    margin: 5px 10px 0 0;
+    font-size: 20px;
+    width: 40px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 50%;
+    background-color: white;
+  }
+  
+  .social-network i:hover{
+    background-color: #434343;
+    color: white;
+  }
+  
+  
